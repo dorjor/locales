@@ -14,7 +14,7 @@
       <email>dorin.jorea@gmail.com</email>
     </translator>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-    <updated>2012-07-04T23:31:02+00:00</updated>
+    <updated>2025-07-01T14:56:47+03:00</updated>
   </info>
   <style-options punctuation-in-quote="false"/>
   <date form="text">
@@ -33,19 +33,19 @@
     <term name="audio-recording">înregistrare audio</term>
     <term name="film">film</term>
     <term name="henceforth">de aici înainte</term>
-    <term name="loc-cit">loc. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
+    <term name="loc-cit">loc.cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="no-place">fără loc</term>
-    <term name="no-place" form="short">f. l.</term>
+    <term name="no-place" form="short">f.l.</term>
     <term name="no-publisher">fără editor</term> <!-- sine nomine -->
-    <term name="no-publisher" form="short">f. e.</term>
+    <term name="no-publisher" form="short">f.e.</term>
     <term name="on">pe</term>
-    <term name="op-cit">op. cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
+    <term name="op-cit">op.cit.</term> <!-- like ibid., the abbreviated form is the regular form  -->
     <term name="original-work-published">lucrare originală publicată</term>
     <term name="personal-communication">comunicare personală</term>
     <term name="podcast">podcast</term>
     <term name="podcast-episode">episod de podcast</term>
     <term name="preprint">preprint</term>
-    <term name="radio-broadcast">transmisie radio</term>
+    <term name="radio-broadcast">emisiune radio</term>
     <term name="radio-series">serie radio</term>
     <term name="radio-series-episode">episod de serie radio</term>
     <term name="special-issue">număr special</term>
@@ -53,7 +53,7 @@
     <term name="television-broadcast">emisiune de televiziune</term>
     <term name="television-series">serial televizat</term>
     <term name="television-series-episode">episod al serialului televizat</term>
-    <term name="video">înregistrare video</term>
+    <term name="video">video</term>
     <term name="working-paper">lucrare în curs de elaborare</term>
     <term name="accessed">data accesării</term>
     <term name="and">și</term>
@@ -67,8 +67,8 @@
     <term name="circa" form="short">cca.</term>
     <term name="cited">citat</term>
     <term name="first-reference-note-number">
-      <single>referință</single>
-      <multiple>referințe</multiple>
+      <single>referință citată în nota</single>
+      <multiple>referințe citate în nota</multiple>
     </term>
     <term name="number">
       <single>numărul</single>
@@ -78,10 +78,10 @@
       <single>ediția</single>
       <multiple>edițiile</multiple>
     </term>
-    <term name="first-reference-note-number" form="short">cf.</term>
+    <term name="first-reference-note-number" form="short">n.</term>
     <term name="number" form="short">nr.</term>
     <term name="edition" form="short">ed.</term>
-    <term name="et-al">et al.</term> <!-- Romanian translation of this Latin expression is never used in Romanian styles -->
+    <term name="et-al">et al.</term> <!-- Romanian translation of this Latin expression is never used in Romanian styles -->
     <term name="forthcoming">în curs de apariție</term>
     <term name="from">din</term>
     <term name="ibid">ibidem</term>
@@ -90,7 +90,7 @@
     <term name="internet">internet</term>
     <term name="letter">scrisoare</term>
     <term name="no date">fără dată</term>
-    <term name="no date" form="short">f.a.</term>
+    <term name="no date" form="short">f.d.</term>
     <term name="online">online</term>
     <term name="presented at">prezentat la</term>
     <term name="reference">
@@ -114,7 +114,7 @@
     <term name="article-newspaper">articol de ziar</term>
     <term name="bill">proiect de lege</term>
     <!-- book is in the list of locator terms -->
-    <term name="broadcast">transmisie</term>
+    <term name="broadcast">transmisiune</term>
     <!-- chapter is in the list of locator terms -->
     <term name="classic">clasic</term>
     <term name="collection">colecție</term>
@@ -128,17 +128,17 @@
     <term name="graphic">grafică</term>
     <term name="hearing">audiere</term>
     <term name="interview">interviu</term>
-    <term name="legal_case">caz juridic</term>
+    <term name="legal_case">cauză</term>
     <term name="legislation">legislație</term>
     <term name="manuscript">manuscris</term>
     <term name="map">hartă</term>
-    <term name="motion_picture">înregistrare video</term>
+    <term name="motion_picture">film artistic</term>
     <term name="musical_score">partitură muzicală</term>
     <term name="pamphlet">pamflet</term>
     <term name="paper-conference">articol de conferință</term>
     <term name="patent">brevet</term>
     <term name="performance">interpretare</term>
-    <term name="periodical">periodic</term>
+    <term name="periodical">publicație periodică</term>
     <term name="personal_communication">comunicare personală</term>
     <term name="post">postare</term>
     <term name="post-weblog">postare pe blog</term>
@@ -152,20 +152,20 @@
     <term name="standard">standard</term>
     <term name="thesis">teză</term>
     <term name="treaty">tratat</term>
-    <term name="webpage">pagină Web</term>
+    <term name="webpage">pagină web</term>
 
     <!-- SHORT ITEM TYPE FORMS -->
-    <term name="article-journal" form="short">art. revistă</term>
-    <term name="article-magazine" form="short">art. revistă</term>
-    <term name="article-newspaper" form="short">art. ziar</term>
+    <term name="article-journal" form="short">art.rev.</term>
+    <term name="article-magazine" form="short">art.rev.</term>
+    <term name="article-newspaper" form="short">art.z.</term>
     <!-- book is in the list of locator terms -->
     <!-- chapter is in the list of locator terms -->
     <term name="document" form="short">doc.</term>
     <!-- figure is in the list of locator terms -->
-    <term name="graphic" form="short">graf.</term>
-    <term name="interview" form="short">interv.</term>
+    <term name="graphic" form="short">gr.</term>
+    <term name="interview" form="short">int.</term>
     <term name="manuscript" form="short">MS</term>
-    <term name="motion_picture" form="short">înreg. video</term>
+    <term name="motion_picture" form="short">f.a.</term>
     <term name="report" form="short">rap.</term>
     <term name="review" form="short">rec.</term>
     <term name="review-book" form="short">rec. carte</term>
@@ -173,7 +173,7 @@
 
     <!-- VERB ITEM TYPE FORMS -->
     <!-- Only where applicable -->
-    <term name="hearing" form="verb">mărturie a</term>
+    <term name="hearing" form="verb">audiere a</term>
     <term name="review" form="verb">recenzie a</term>
     <term name="review-book" form="verb">recenzie a cărții</term>
 
@@ -299,7 +299,7 @@
       <multiple>volumele</multiple>
     </term>
     <term name="page-first">
-      <single>pagina</single>
+      <single>prima pagină</single>
       <multiple>paginile</multiple>
     </term>
     <term name="printing">
@@ -307,15 +307,9 @@
       <multiple>tiparele</multiple>
     </term>
 
-    <term name="chapter-number" form="short">
-      <single>cap.</single>
-      <multiple>chaps.</multiple>
-    </term>
-    <term name="citation-number" form="short">
-      <single>cit.</single>
-      <multiple>cits.</multiple>
-    </term>
-    <term name="collection-number" form="short">nr.</term>
+    <term name="chapter-number" form="short">cap.</term>
+    <term name="citation-number" form="short">cit.</term>
+    <term name="collection-number" form="short">col.</term>
     <term name="number-of-pages">
       <single>pagina</single>
       <multiple>paginile</multiple>
@@ -337,8 +331,8 @@
       <multiple>suplimentele</multiple>
     </term>
     <term name="sub-verbo">
-      <single>sub verbo</single>
-      <multiple>sub verbis</multiple>
+      <single>sub verbo</single>
+      <multiple>sub verbis</multiple>
     </term>
     <term name="verse">
       <single>versetul</single>
@@ -350,39 +344,15 @@
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
-    <term name="appendix" form="short">			 
-      <single>app.</single>
-      <multiple>apps.</multiple>						 
-    </term>
+    <term name="appendix" form="short">app.</term>	 
     <term name="article-locator" form="short">art.</term>
-    <term name="elocation" form="short">			 
-      <single>loc.</single>
-      <multiple>locs.</multiple>
-    </term>
-    <term name="equation" form="short">			 
-      <single>ec.</single>
-      <multiple>ecs.</multiple>
-    </term>
-    <term name="rule" form="short">			 
-      <single>r.</single>
-      <multiple>rr.</multiple>						 
-    </term>
-    <term name="scene" form="short">			 
-      <single>sc.</single>
-      <multiple>scs.</multiple>						 
-    </term>
-    <term name="table" form="short">			 
-      <single>tbl.</single>
-      <multiple>tbls.</multiple>						 
-    </term>
-    <term name="timestamp" form="short"> <!-- generally blank -->
-      <single></single>
-      <multiple></multiple>						 
-    </term>
-    <term name="title-locator" form="short">			 
-      <single>tit.</single>
-      <multiple>tits.</multiple>
-    </term>
+    <term name="elocation" form="short">loc.</term>
+    <term name="equation" form="short">ec.</term>
+    <term name="rule" form="short">reg.</term>					 
+    <term name="scene" form="short">sc.</term>
+    <term name="table" form="short">tab.</term>	 
+    <term name="timestamp" form="short">""</term> <!-- generally blank -->		 
+    <term name="title-locator" form="short">tit</term>
     <term name="book" form="short">cart.</term>
     <term name="chapter" form="short">cap.</term>
     <term name="column" form="short">col.</term>
@@ -391,65 +361,32 @@
     <term name="issue" form="short">nr.</term>
     <term name="line" form="short">l.</term>
     <term name="note" form="short">n.</term>
-    <term name="opus" form="short">op.</term>
+    <term name="opus" form="short">o.</term>
     <term name="page" form="short">
       <single>p.</single>
       <multiple>pp.</multiple>
     </term>
-    <term name="number-of-volumes" form="short">
-      <single>vol.</single>
-      <multiple>vol.</multiple>
-    </term>
+    <term name="number-of-volumes" form="short">vol.</term>
     <term name="page-first" form="short">
       <single>p.</single>
       <multiple>pp.</multiple>
     </term>
-    <term name="printing" form="short">
-      <single>print.</single>
-      <multiple>print.</multiple>
-    </term>
-    
-
+    <term name="printing" form="short">impr.</term>
     <term name="number-of-pages" form="short">
-      <single>p.</single>
-      <multiple>pp.</multiple>
+      <single>p.nr.</single>
+      <multiple>pp.nr.</multiple>
     </term>
     <term name="paragraph" form="short">par.</term>
     <term name="part" form="short">part.</term>
     <term name="section" form="short">sec.</term>
-    <term name="supplement" form="short">
-      <single>suplim.</single>
-      <multiple>suplim.</multiple>
-    </term>
-    <term name="sub-verbo" form="short">
-      <single>s.v.</single>
-      <multiple>s.vv.</multiple>
-    </term>
-    <term name="verse" form="short">
-      <single>v.</single>
-      <multiple>vv.</multiple>
-    </term>
-    <term name="volume" form="short">
-      <single>vol.</single>
-      <multiple>vol.</multiple>
-    </term>
-
+    <term name="supplement" form="short">supl.</term>
+    <term name="sub-verbo" form="short">s.v.</term>
+    <term name="verse" form="short">v.</term>
+    <term name="volume" form="short">vol.</term>
     <!-- SYMBOL LOCATOR FORMS -->
     <term name="paragraph" form="symbol">
       <single>¶</single>
       <multiple>¶¶</multiple>
-    </term>
-    <term name="chapter-number">
-      <single>capitolul</single>
-      <multiple>capitolele</multiple>
-    </term>
-    <term name="citation-number">
-      <single>citarea</single>
-      <multiple>citările</multiple>
-    </term>
-    <term name="collection-number">
-      <single>numărul</single>
-      <multiple>numerele</multiple>
     </term>
     <term name="section" form="symbol">
       <single>§</single>
@@ -543,70 +480,15 @@
     </term>
 
     <!-- SHORT ROLE FORMS -->
-    <term name="compiler" form="short">
-      <single>comp.</single>
-      <multiple>comp.</multiple>
-    </term>
-    <term name="contributor" form="short">
-      <single>contrib.</single>
-      <multiple>contrib.</multiple>
-    </term>
-    <term name="curator" form="short">
-      <single>curat.</single>
-      <multiple>curat.</multiple>
-    </term>
-    <term name="executive-producer" form="short">
-      <single>prod. exec.</single>
-      <multiple>prod. exec.</multiple>
-    </term>
-    <term name="narrator" form="short">
-      <single>nar.</single>
-      <multiple>nar.</multiple>
-    </term>
-    <term name="organizer" form="short">
-      <single>org.</single>
-      <multiple>org.</multiple>
-    </term>
-    <term name="performer" form="short">
-      <single>interpr.</single>
-      <multiple>interpr..</multiple>
-    </term>
-    <term name="producer" form="short">
-      <single>prod.</single>
-      <multiple>prod.</multiple>
-    </term>
-    <term name="script-writer" form="short">
-      <single>scriit.</single>
-      <multiple>scriit.</multiple>
-    </term>
-    <term name="series-creator" form="short">
-      <single>ed. col.</single>
-      <multiple>ed. col.</multiple>
-    </term>
-    <term name="director" form="short">
-      <single>dir.</single>
-      <multiple>dir.</multiple>
-    </term>
-    <term name="editor" form="short">
-      <single>ed.</single>
-      <multiple>ed.</multiple>
-    </term>
-    <term name="editorial-director" form="short">
-      <single>coord.</single>
-      <multiple>coord.</multiple>
-    </term>
-    <term name="illustrator" form="short">
-      <single>ilustr.</single>
-      <multiple>ilustr.</multiple>
-    </term>
-    <term name="translator" form="short">
-      <single>trad.</single>
-      <multiple>trad.</multiple>
-    </term>
-    <term name="editortranslator" form="short">
-      <single>ed. și trad.</single>
-      <multiple>ed. și trad.</multiple>
-    </term>
+    <term name="executive-producer" form="short">prod.exec.</term>
+    <term name="producer" form="short">prod.</term>
+    <term name="script-writer" form="short">scriit.</term>
+    <term name="series-creator" form="short"><ed.col.</term>
+    <term name="director" form="short">dir.</term>
+    <term name="editor" form="short">ed.<term>
+    <term name="editorial-director" form="short">ed.coord.</term>
+    <term name="translator" form="short">trad.</term>
+    <term name="editortranslator" form="short">ed.trad.</term>
 
     <!-- VERB ROLE FORMS -->
     <term name="collection-editor" form="verb">editat de</term>
@@ -631,29 +513,25 @@
     <term name="interviewer" form="verb">interviu de</term>
     <term name="recipient" form="verb">în</term>
     <term name="reviewed-author" form="verb">de</term>
-    <term name="collection-editor" form="verb-short">ed. de</term>
+    <term name="collection-editor" form="verb-short">colecție editată de</term>
     <term name="translator" form="verb">traducere de</term>
-    <term name="editortranslator" form="verb">ediție și traducere de</term>
+    <term name="editortranslator" form="verb">editat și tradus de</term>
 
     <!-- SHORT VERB ROLE FORMS -->
     <term name="compiler" form="verb-short">comp. de</term>
     <term name="contributor" form="verb-short">cu</term>
-    <term name="curator" form="verb-short">cur.</term>
-    <term name="executive-producer" form="verb-short">prod. exec. de</term>
+    <term name="executive-producer" form="verb-short">prod.exec. de</term>
     <term name="guest" form="verb-short">cu invit.</term>
-    <term name="host" form="verb-short">găzd. de</term>
     <term name="narrator" form="verb-short">nar. de</term>
-    <term name="organizer" form="verb-short">org. de</term>
     <term name="performer" form="verb-short">interpr. de</term>
     <term name="producer" form="verb-short">prod. de</term>
     <term name="script-writer" form="verb-short">scen. de</term>
-    <term name="series-creator" form="verb-short">ed. col. de</term>
+    <term name="series-creator" form="verb-short">ed.col. de</term>
     <term name="director" form="verb-short">dir.</term>
     <term name="editor" form="verb-short">ed. de</term>
     <term name="editorial-director" form="verb-short">coord. de</term>
-    <term name="illustrator" form="verb-short">ilustr. de</term>
     <term name="translator" form="verb-short">trad. de</term>
-    <term name="editortranslator" form="verb-short">ed. și trad. de</term>
+    <term name="editortranslator" form="verb-short">ed.trad. de</term>
 
     <!-- LONG MONTH FORMS -->
     <term name="month-01">ianuarie</term>
@@ -671,22 +549,22 @@
 
     <!-- SHORT MONTH FORMS -->
     <term name="month-01" form="short">ian.</term>
-    <term name="month-02" form="short">feb.</term>
-    <term name="month-03" form="short">mar.</term>
+    <term name="month-02" form="short">febr.</term>
+    <term name="month-03" form="short">mart.</term>
     <term name="month-04" form="short">apr.</term>
     <term name="month-05" form="short">mai</term>
     <term name="month-06" form="short">iun.</term>
     <term name="month-07" form="short">iul.</term>
     <term name="month-08" form="short">aug.</term>
-    <term name="month-09" form="short">sep.</term>
+    <term name="month-09" form="short">sept.</term>
     <term name="month-10" form="short">oct.</term>
     <term name="month-11" form="short">nov.</term>
     <term name="month-12" form="short">dec.</term>
 
     <!-- SEASONS -->
-    <term name="season-01">primăvara</term>
-    <term name="season-02">vara</term>
-    <term name="season-03">toamna</term>
-    <term name="season-04">iarna</term>
+    <term name="season-01">primăvară</term>
+    <term name="season-02">vară</term>
+    <term name="season-03">toamnă</term>
+    <term name="season-04">iarnă</term>
   </terms>
 </locale>
